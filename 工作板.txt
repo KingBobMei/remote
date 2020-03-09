@@ -1,0 +1,8 @@
+两个工作空间：
+	D:\JavaWebProject
+	D:\Program File (x86)
+
+git@github.com:PanJiaChen/vue-element-admin.git
+
+常用的github  myq1970010100@163.com  密码
+
